@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\cho\desktop\2018lab\ks\poisson matting\poissonmatting\poissonmatting\fucs.h(35): warning C4244: '=': 'float'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cho\desktop\2018lab\ks\poisson matting\poissonmatting\poissonmatting\fucs.h(39): warning C4244: '=': 'float'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cho\desktop\2018lab\ks\poisson matting\poissonmatting\poissonmatting\fucs.h(132): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PoissonMatting.vcxproj -> C:\Users\Cho\Desktop\2018LAB\KS\poisson matting\PoissonMatting\x64\Debug\PoissonMatting.exe
