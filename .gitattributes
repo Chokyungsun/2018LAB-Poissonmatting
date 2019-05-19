@@ -1,1 +1,2 @@
 KS/poisson[[:space:]]matting/PoissonMatting_colour/x64/Debug/opencv_world342d.dll filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
